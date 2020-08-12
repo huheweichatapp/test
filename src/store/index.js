@@ -9,3 +9,4 @@ export default new Vuex.Store({
     mutations,
     actions
 })
+console.log("123")
