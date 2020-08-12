@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-
+<h1>ni haobuhao</h1>
   </div>
 </template>
 
