@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-<h1>ni haobuhao</h1>
+<h2>我是dev修改的</h2>
   </div>
 </template>
 
